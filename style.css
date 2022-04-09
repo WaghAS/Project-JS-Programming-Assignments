@@ -1,0 +1,24 @@
+.wow {
+  width: 100px;
+}
+h1{
+  background-color: white;
+   color: #009879;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+.container{
+    background-color:#ffebee;
+    margin: 100px auto; ;
+    width: 400px;
+    padding: 25px;
+    box-shadow: 2px 2px 2px 2px;
+    border-radius:30px;
+    
+}
+.button-text{
+    text-align: center;
+ 
+  h2{
+    text-align: center;
+  }
